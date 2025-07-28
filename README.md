@@ -15,3 +15,7 @@ This project explores the following key questions:
 6. Delivery impact: Is there a correlation between delivery day and units sold?
 7. Underperformers: Which products perform poorly despite being well-stocked or frequently promoted?
 
+## Executive Summary
+#### Overview of Findings
+
+adqdef
