@@ -5,7 +5,7 @@
 #### This project analyzes transactional sales data from an e-commerce company to uncover insights related to product performance, promotional effectiveness, stock availability, and sales trends. The analysis is designed to support stakeholders such as sales, marketing, supply chain, and regional managers in making data-driven decisions.
 
 
-# Business Questions
+## Business Questions
 This project explores the following key questions:
 1. Top-performing products: Which product categories or brands drive the most revenue and unit sales?
 2. Promotional impact: How do promotions affect sales across different SKUs?
