@@ -21,6 +21,7 @@ This project explores the following key questions:
 
 2. Channel and Product Contribution: Yogurt was the top-performing product, contributing the highest revenue (3M), followed by Milk and SnackBar. Retail remains the dominant channel, but E-commerce and Discount channels also contributed notably, suggesting multi-channel engagement is working.
 
+
 3. Opportunities in Promotions and Stock: Promo sales contributed 25.3% of total revenue, and stock availability stood high at 97.9%, indicating strong operational efficiency. Yet, the business could benefit from revisiting promotion strategies during declining months to maintain momentum and drive unit sales.
 
-
+![image alt](https://github.com/Windafadillah/FMCG-Analysis/blob/0404955f4292b8c6412071f2ea1a12e7af143d13/Executive%20Summary.png)
