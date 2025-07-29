@@ -16,7 +16,7 @@ This project explores the following key questions:
 7. Underperformers: Which products perform poorly despite being well-stocked or frequently promoted?
 
 ## Executive Summary
-#### Overview of Findings
+### Overview of Findings
 1. Strong Start, Declining Momentum: The business experienced strong revenue growth in the first half of the year (January to June), as seen in the green bars of the YTD vs PYTD waterfall chart. However, performance declined steadily in the second half, with consistent revenue drops from July to November, signaling a need to investigate seasonal demand or operational constraints.
 
 2. Channel and Product Contribution: Yogurt was the top-performing product, contributing the highest revenue (3M), followed by Milk and SnackBar. Retail remains the dominant channel, but E-commerce and Discount channels also contributed notably, suggesting multi-channel engagement is working.
@@ -25,3 +25,12 @@ This project explores the following key questions:
 3. Opportunities in Promotions and Stock: Promo sales contributed 25.3% of total revenue, and stock availability stood high at 97.9%, indicating strong operational efficiency. Yet, the business could benefit from revisiting promotion strategies during declining months to maintain momentum and drive unit sales.
 
 ![image alt](https://github.com/Windafadillah/FMCG-Analysis/blob/0404955f4292b8c6412071f2ea1a12e7af143d13/Executive%20Summary.png)
+
+## Insights Deep Dive
+### Top Performing Products
+### Promotional Impacts
+### Stock vs. sales
+### Channel Efficiency
+### Seasonal Patterns
+### Delivery Impact
+### Underperformers
