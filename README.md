@@ -27,10 +27,59 @@ This project explores the following key questions:
 ![image alt](https://github.com/Windafadillah/FMCG-Analysis/blob/0404955f4292b8c6412071f2ea1a12e7af143d13/Executive%20Summary.png)
 
 ## Insights Deep Dive
-### Top Performing Products
-### Promotional Impacts
+### 1. Top Performing Products
+
+- Yogurt dominates the FMCG portfolio, contributing over 40% of total revenue, indicating strong consumer preference or effective positioning.
+- Milk and SnackBar are evenly matched, suggesting balanced market performance and possibly interchangeable consumer choice behavior.
+- Juice has the lowest revenue contribution, despite being part of the core category. This could indicate:
+      Poor distribution or availability
+      Low demand
+      Weak promotional support.
+
+
+<img width="1367" height="692" alt="image" src="https://github.com/user-attachments/assets/0057b59b-0ea1-478f-9828-877db25b2d4b" />
+
+
+In addition, we can see the revenue trend that indicates:
+- Revenue peaked in May and July (0.80M) with the highest unit sales, showing strong seasonal consumer demand during mid-year.
+- The Retail channel consistently drove the highest portion of revenue across all months, followed by E-commerce and Discount channels.
+- From August onwards, there's a clear downward trend in revenue and unit sales, possibly linked to:
+      Reduced promotions
+      Seasonal drop in demand
+      Stock limitations or marketing fatigue
+  
+<img width="1725" height="690" alt="image" src="https://github.com/user-attachments/assets/0cae2f79-d9ed-408b-8182-81e167b22c5b" />
+
+Recommendation: 
+- Analyze marketing activities, stock levels, and external factors (e.g., holidays, economic shifts) during H2 2024 to mitigate similar drops in 2025.
+- Focus product innovation and marketing efforts on Juice or consider repackaging or repositioning if strategic fit is confirmed.
+
+### 2. Promotional Impacts
+- Promotions drive volume but not always revenue: Across all years, promo-driven unit sales (blue line) generally peak during promotional months, but the corresponding revenue gains vary—highlighting possible discounting impacts.
+- 2023 was the most promotion-heavy year: Promo sales peaked mid-year (especially June–July), aligning with the highest revenue months—indicating effective promotional execution.
+- In 2024, promotions stabilized: While promo unit sales were steady, revenue increased gradually, suggesting improved pricing strategies or less discount-driven dependency.
+
+Promotional impact on 2022
+<img width="855" height="230" alt="image" src="https://github.com/user-attachments/assets/3276d55e-1c3a-4521-8c85-68aa3ef24eb2" />
+
+Promotional impact on 2023
+<img width="857" height="252" alt="image" src="https://github.com/user-attachments/assets/ea300f95-ca84-4765-a8a7-6716e42afea3" />
+
+Promotional impact on 2022
+<img width="872" height="257" alt="image" src="https://github.com/user-attachments/assets/418a618f-7dc3-4a9b-8589-ecccefec810a" />
+
+#### Key Takeaways
+- Promotions were most impactful in 2023, driving short-term spikes in both revenue and volume.
+- 2024 shows strategic maturity—more revenue with stable promo activity suggests better brand pull or pricing optimization.
+- The lack of sustained growth after promo peaks in 2022 and 2023 points to the importance of post-promo retention strategies.
+
+
 ### Stock vs. sales
 ### Channel Efficiency
 ### Seasonal Patterns
 ### Delivery Impact
 ### Underperformers
+
+
+## Recommendation
+
