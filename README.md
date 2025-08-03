@@ -105,4 +105,38 @@ This quadrant framework helps prioritize operational and marketing decisions to 
 <img width="620" height="292" alt="image" src="https://github.com/user-attachments/assets/3dff2d69-f0cc-4e02-8e66-8587e51afaa9" />
 
 ## Recommendation
-
+1. Improve Stock Replenishment for High-Demand Products
+   - Yogurt, a high-performing category, suffers from stock shortages. To prevent lost sales and meet demand:
+     - Strengthen inventory forecasting models for top sellers.
+     - Prioritize replenishment cycles for SKUs with recurring stockouts.
+     - Consider safety stock levels or vendor lead time adjustments.
+2. Reposition or Right-Size Low-Performing Categories
+   - Juice and SnackBar have high stock levels but low sales, indicating overstocking or weak demand.
+     - Reassess product-market fit or rebrand the category.
+     - Explore aggressive promotions, bundling, or repositioning tactics.
+     - Optimize inventory levels to reduce holding costs and avoid future overstock.
+3. Support Retail and E-Commerce Channels Differently
+   - Retail dominates in revenue but shows declining contribution post-July. E-commerce spikes mid-year and is more promo-responsive.
+     - Retail: Improve in-store visibility and restock planning; align campaigns with seasonal peaks.
+     - E-commerce: Continue targeted promotions and scale up digital presence during Q2–Q3.
+4. Review Promotional Strategy Across SKUs
+   - Promotions have a visible impact on sales volume, especially in 2023, but don't always translate into revenue.
+     - Focus on promo ROI rather than frequency.
+     - Plan campaigns aligned with peak shopping windows (Q2–Q3).
+     - Pair promotional pushes with well-stocked inventory to avoid mismatches.
+5. Address Operational Inefficiencies in At-Risk Categories
+   - ReadyMeal shows both low sales and low availability, hinting at supply chain or listing issues.
+   - Investigate upstream causes (supplier, distributor gaps).
+   - Test consumer demand through limited relaunch or regional pilots.
+   - Consider de-prioritizing or retiring if demand recovery is unlikely.
+6. Monitor and React to Seasonal Declines
+   - The consistent drop in performance from August to November across channels suggests seasonality or reduced campaign activity.
+     - Build promotional calendars to re-engage customers in Q4.
+     - Use past sales trends to drive demand planning and channel-specific targeting.
+7. Implement an Underperformance Tracker
+   - Create a dashboard module to continuously identify:
+     - SKUs with high stock but low sales
+     - Channels with declining conversion
+     - Products that are over-reliant on promotions
+       
+This enables agile decision-making and resource reallocation to improve performance in real time.
