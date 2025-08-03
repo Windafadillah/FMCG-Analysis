@@ -11,9 +11,7 @@ This project explores the following key questions:
 2. Promotional impact: How do promotions affect sales across different SKUs?
 3. Stock vs. sales: Are stock issues or delivery delays affecting sales performance?
 4. Channel efficiency: Which sales channels are most effective for specific product segments or regions?
-5. Seasonal patterns: What are the sales trends across weeks/months and regions?
-6. Delivery impact: Is there a correlation between delivery day and units sold?
-7. Underperformers: Which products perform poorly despite being well-stocked or frequently promoted?
+5. Underperformers: Which products perform poorly despite being well-stocked or frequently promoted?
 
 ## Executive Summary
 ### Overview of Findings
@@ -39,19 +37,7 @@ This project explores the following key questions:
 
 <img width="1367" height="692" alt="image" src="https://github.com/user-attachments/assets/0057b59b-0ea1-478f-9828-877db25b2d4b" />
 
-
-In addition, we can see the revenue trend that indicates:
-- Revenue peaked in May and July (0.80M) with the highest unit sales, showing strong seasonal consumer demand during mid-year.
-- The Retail channel consistently drove the highest portion of revenue across all months, followed by E-commerce and Discount channels.
-- From August onwards, there's a clear downward trend in revenue and unit sales, possibly linked to:
-      Reduced promotions
-      Seasonal drop in demand
-      Stock limitations or marketing fatigue
-  
-<img width="1725" height="690" alt="image" src="https://github.com/user-attachments/assets/0cae2f79-d9ed-408b-8182-81e167b22c5b" />
-
 Recommendation: 
-- Analyze marketing activities, stock levels, and external factors (e.g., holidays, economic shifts) during H2 2024 to mitigate similar drops in 2025.
 - Focus product innovation and marketing efforts on Juice or consider repackaging or repositioning if strategic fit is confirmed.
 
 ### 2. Promotional Impacts
@@ -75,11 +61,48 @@ Promotional impact on 2022
 
 
 ### Stock vs. sales
-### Channel Efficiency
-### Seasonal Patterns
-### Delivery Impact
-### Underperformers
 
+<img width="812" height="275" alt="image" src="https://github.com/user-attachments/assets/2bb71c9c-0e5b-415d-97a4-56d9bb6abca4" />
+
+The image above indicates that:
+1. Correlated Trends: In general, Units Sold follow Stock Availability. When stock increases, sales also increase, and vice versa — indicating effective stock management in most periods.
+2. Sales Drop with High Stock (Underperformance); Several time points show flat or decreasing sales despite high stock availability, indicating:
+   - Poor product demand
+   - Ineffective promotions
+   - Visibility issues
+→ These are potential underperformers worth investigating.
+3. Stock-Out Impact; Periods where stock dips sharply and sales also drop point to stock-out issues, which suggest:
+   - Missed sales opportunities
+   - Forecasting or replenishment problems
+4. Lag Effect: A few spikes in stock are followed by a delayed increase in sales, suggesting either:
+   - Late campaign response
+   - Promotion not aligned with stock arrival
+
+### Channel Efficiency
+<img width="1725" height="690" alt="image" src="https://github.com/user-attachments/assets/0cae2f79-d9ed-408b-8182-81e167b22c5b" />
+
+Efficiency Signals
+1. The retail channel carries most of the revenue load but shows declining contributions post-July, suggesting saturation or a lack of promotional push.
+2. E-commerce performs best in Q2–Q3 — possibly due to campaigns, better availability, or higher consumer demand online during that period.
+3. The discount channel shows little variation, low volatility, and low potential conversion, likely needing evaluation for future focus.
+
+
+Key Takeaways
+- 📉 Q4 Decline: All channels show a drop-off after July. This may be due to reduced promotions, seasonality, or supply constraints.
+- 📈 Channel Balance: Heavy reliance on Retail; diversification via stronger E-commerce and Discount channel strategies may help balance risks.
+- 🎯 Promo Targeting: Since E-commerce shows responsiveness, prioritize digital promotions and optimize Retail visibility to sustain growth.
+
+### Underperformers
+The Channel Efficiency quadrant analysis provides strategic insights into the relationship between product availability and sales performance across categories:
+
+- Milk is positioned in the top-right quadrant (high sales, high availability), making it a star performer. This indicates excellent alignment between supply and demand, suggesting that current inventory and distribution strategies are working well.
+- Yogurt appears in the top-left quadrant (high sales, low availability), signaling a missed opportunity. Despite strong consumer demand, frequent stockouts could be limiting growth. This calls for urgent improvement in replenishment and forecasting processes.
+- SnackBar and Juice fall into the bottom-right quadrant (low sales, high availability), indicating overstocking. These categories may be suffering from weak demand, insufficient visibility, or ineffective promotions. Marketing or bundling strategies could help boost movement.
+- ReadyMeal sits in the bottom-left quadrant (low sales, low availability), marking it as a low-priority or at-risk category. This may reflect either supply chain limitations or poor consumer traction. A deeper review is needed to determine whether to invest, reposition, or phase out the product.
+
+This quadrant framework helps prioritize operational and marketing decisions to enhance overall channel performance and inventory efficiency.
+
+<img width="620" height="292" alt="image" src="https://github.com/user-attachments/assets/3dff2d69-f0cc-4e02-8e66-8587e51afaa9" />
 
 ## Recommendation
 
